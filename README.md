@@ -136,7 +136,8 @@ During operation, the LCD displays the current step and elapsed time.
 
 **Menu and step sequence displayed in the unit:**
 
-<img width="3619" height="8054" alt="FigS3" src="https://github.com/user-attachments/assets/5f8ed470-7b54-4daf-b4bc-0fb8e116343e" />
+<img width="1000" height="2225" alt="FigS3git" src="https://github.com/user-attachments/assets/2a73c13f-c6b5-4d9f-b7a2-0bce1082aecf" />
+
 
 ## User Interface
 
